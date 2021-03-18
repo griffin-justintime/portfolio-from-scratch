@@ -100,15 +100,16 @@ header nav ul li a {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Work Formatting */
 .container {
   display: flex;
   flex-wrap: wrap;
   width: 100%;
 }
 
-#horiseon {
+/* #horiseon {
   
-}
+} */
 
 .navbot {
   display: flex;
@@ -130,4 +131,4 @@ header nav ul li a {
   padding-right: 10px;
 }
 /* Media Resizing */
-@media screen and ()
+/* @media screen and () */
